@@ -1,0 +1,6 @@
+[
+  {
+    "name": "test-fargate",
+    "imageUri": "public.ecr.aws/n6s7a7y9/test-fargate-repo:latest"
+  }
+]
