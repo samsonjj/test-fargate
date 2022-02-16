@@ -4,7 +4,7 @@ const app = express()
 const PORT = 80
 
 app.get('/', (req, res) => {
-	res.end('hello, world')
+	res.end('why do ants not get sick?\n\nbecause they have little antibodies!')
 })
 
 app.listen(PORT, () => {
